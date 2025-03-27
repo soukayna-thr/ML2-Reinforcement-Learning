@@ -99,4 +99,7 @@ Le graphique comparatif des récompenses cumulées entre Q-Learning et SARSA met
 ## Conclusion
 En résumé, l'analyse comparative suggère que, malgré de légères différences dans le processus d'apprentissage, les deux algorithmes sont capables d'apprendre une politique efficace pour optimiser les feux de circulation dans l'environnement simulé. Cette étude ouvre la voie à des expérimentations supplémentaires en ajustant les hyperparamètres afin de maximiser les performances dans des scénarios plus variés.
 
-  
+
+
+Pour plus d'informations, vous pouvez consulter ce document  : [Analyse Comparative de SARSA et Q-Learning pour l'Optimisation des Feux de Circulation](https://www.academia.edu/128465535/Analyse_Comparative_de_SARSA_et_Q_Learning_pour_lOptimisation_des_Feux_de_Circulation)
+
