@@ -53,4 +53,6 @@ Instructions :
   
 Voir Notebook : [Notebook du TP4](TP4.ipynb)
 
+En cas de problème d'ouverture ou pour un accès simplifié, vous pouvez consulter et exécuter le notebook directement sur Google Colab en suivant ce lien : [Accéder au notebook sur Colab](https://colab.research.google.com/drive/1-ImQ4deX4MMHV9byt6KsTa5sg16FFh8Y?usp=sharing)
+
 Pour plus d'informations, consulter : 📚[Documentation Taxi-v3](https://www.gymlibrary.dev/environments/toy_text/taxi/) 
