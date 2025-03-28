@@ -25,7 +25,7 @@ L'agent évolue dans une grille et doit respecter les règles suivantes :
   Trouver le trésor rapporte **+10 points** et met fin au jeu.
 ## Les fichiers joints
 - [Fichier DevoirSolution](DevoirSolution.ipynb) : contient un code simple de jeu
-- [Fichier Simulation](Simulation.py) : aajout des améliorations, notamment une interface pour la simulation du jeu avec un historique des déplacements.
+- [Fichier Simulation](Simulation.py) : ajout des améliorations, notamment une interface pour la simulation du jeu avec un historique des déplacements.
 pour l'exécuter:
 ```bash
    python Simulation.py
