@@ -1,10 +1,10 @@
- # TP1 – Initiation au Reinforcement Learning avec OpenAI Gym 🤖
+ # TP1 – Initiation au Reinforcement Learning avec OpenAI Gym 
 
-## 📌 Contexte et Objectif
+## Contexte et Objectif
 
 Ce TP fait partie du module "Machine Learning II". L'objectif est de se familiariser avec les outils essentiels du Reinforcement Learning (RL) en utilisant principalement la bibliothèque OpenAI Gym. Nous avons apprendre à interagir avec un environnement RL, à exécuter des actions et à comprendre les notions de base comme l'espace d'actions, les observations, les récompenses et le critère de fin d'épisode.
 
-## 🚀 Partie 1 : Présentation des Bibliothèques Clés
+## Partie 1 : Présentation des Bibliothèques Clés
 
 ### OpenAI Gym
 ![img](https://gymnasium.farama.org/_images/gymnasium-text.png)
@@ -20,7 +20,7 @@ Ce TP fait partie du module "Machine Learning II". L'objectif est de se familiar
   ```bash
   pip install --upgrade gymnasium pygame numpy
   
-## 🛠️ Partie 2 : Exercices Pratiques avec OpenAI Gym
+## Partie 2 : Exercices Pratiques avec OpenAI Gym
 
 ### Exercice 1 : Découverte et Exploration d'un Environnement
 **Objectif :**  
@@ -45,7 +45,7 @@ Permettre à l'utilisateur de contrôler manuellement l'agent pour observer dire
 Mesurer la durée moyenne d'un épisode lorsque l'agent prend des actions aléatoires.
 
 
-## 🎯  Informations : CartPole - OpenAI Gym
+## Informations : CartPole - OpenAI Gym
 
 
 ### Objectif
