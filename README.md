@@ -1,8 +1,8 @@
-# 🚀 Machine Learning II - Travaux Pratiques en Reinforcement Learning  
+# Machine Learning II - Travaux Pratiques en Reinforcement Learning  
 
 Ce repository contient les travaux pratiques réalisés dans le cadre du module **Machine Learning II**, axé sur l'apprentissage par renforcement (*Reinforcement Learning*). L'objectif est d'explorer les concepts fondamentaux, d'expérimenter avec des algorithmes classiques et d'appliquer ces techniques à des problématiques concrètes.
 
-## 📌 Contenu du repository  
+## I. Contenu du repository  
 
 Ce projet est organisé en quatre travaux pratiques (TP), chacun traitant un aspect clé de l'apprentissage par renforcement :  
 
@@ -13,14 +13,14 @@ Ce projet est organisé en quatre travaux pratiques (TP), chacun traitant un asp
 | TP3  | Optimisation des feux de circulation | Appliquer l'apprentissage par renforcement à un problème du monde réel, et comparer Q-Learning avec SARSA|
 | TP4  | Apprentissage profond pour les  jeux | Comprendre et expérimenter avec l’algorithme **Proximal Policy Optimization (PPO)** |
 
-## 🛠 Technologies utilisées  
+## II. Technologies utilisées  
 
 - **Python 3.x**
 - **Environnement de développement** - Recommandé : Jupyter / Colab / Vs Code
 - **OpenAI Gym** – Environnement de simulation pour le RL  
 - **NumPy & Matplotlib** – Manipulation des données et visualisation   
 
-## 🚀 Instructions d'installation  
+## III. Instructions d'installation  
 
 1. **Cloner le repository**  
    ```bash
@@ -30,7 +30,7 @@ Ce projet est organisé en quatre travaux pratiques (TP), chacun traitant un asp
    ```bash
    cd ML2-Reinforcement-Learning
 
-## 📊 Résultats et observations
+## IV. Résultats et observations
 Les résultats détaillés de chaque TP (apprentissage des agents, graphiques, scores obtenus) sont disponibles dans les notebooks et les fichiers correspondants.
 
 📜 Licence
