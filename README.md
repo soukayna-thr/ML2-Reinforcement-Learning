@@ -61,7 +61,7 @@ OpenAI Gym est essentiel pour toute personne travaillant avec l’apprentissage 
    cd ML2-Reinforcement-Learning
 
 ## 📊 Résultats et observations
-Les résultats détaillés de chaque TP (apprentissage des agents, graphiques, scores obtenus) sont disponibles dans les notebooks et les fichiers de rapport correspondants.
+Les résultats détaillés de chaque TP (apprentissage des agents, graphiques, scores obtenus) sont disponibles dans les notebooks et les fichiers correspondants.
 
 📜 Licence
 ---
