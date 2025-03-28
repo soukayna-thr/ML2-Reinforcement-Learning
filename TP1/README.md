@@ -7,6 +7,7 @@ Ce TP fait partie du module "Machine Learning II". L'objectif est de se familiar
 ## 🚀 Partie 1 : Présentation des Bibliothèques Clés
 
 ### OpenAI Gym
+![img](https://gymnasium.farama.org/_images/gymnasium-text.png)
 
 - **Description :**
   - OpenAI Gym fournit un ensemble d'environnements interactifs qui permettent de tester et de comparer différents algorithmes d'apprentissage par renforcement.
