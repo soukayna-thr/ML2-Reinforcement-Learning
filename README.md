@@ -12,6 +12,7 @@ Ce projet est organisé en quatre travaux pratiques (TP), chacun traitant un asp
 | TP2  | Implémentation de Q-Learning | Mettre en pratique les concepts fondamentaux de l'apprentissage par renforcement |
 | TP3  | Optimisation des feux de circulation | Appliquer l'apprentissage par renforcement à un problème du monde réel, et comparer Q-Learning avec SARSA|
 | TP4  | Apprentissage profond pour les  jeux | Comprendre et expérimenter avec l’algorithme **Proximal Policy Optimization (PPO)** |
+| TP5  | Apprentissage par renforcement avec TF-Agents | Décovrir l'utilisation pratique de la bibliothéque TensorFlow Agents (TF-Agents)  | 
 
 ## II. Technologies utilisées  
 
