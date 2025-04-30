@@ -13,6 +13,7 @@ Ce projet est organisé en quatre travaux pratiques (TP), chacun traitant un asp
 | TP3  | Optimisation des feux de circulation | Appliquer l'apprentissage par renforcement à un problème du monde réel, et comparer Q-Learning avec SARSA|
 | TP4  | Apprentissage profond pour les  jeux | Comprendre et expérimenter avec l’algorithme **Proximal Policy Optimization (PPO)** |
 | TP5  | Apprentissage par renforcement avec TF-Agents | Décovrir l'utilisation pratique de la bibliothéque TensorFlow Agents (TF-Agents)  | 
+| TP6  | Apprentissage par renforcement avec TorchRL| Entrainer un agent intelligent à jouer au célèbre jeu **Super Mario Bros**   | 
 
 ## II. Technologies utilisées  
 
